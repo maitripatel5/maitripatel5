@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/maitri2908)](https://github.com/maitri2908)
 
 ## 👋 Hi, I'm Maitri Patel 👩🏻‍💻
-🚀 Welcome to my GitHub Universe! 🚀 I'm Maitri Patel, a dedicated software developer with over 3 years of experience in J2EE, UI technologies, MVC frameworks, Databases, and DSA. My expertise lies in Core Java, Spring Framework, and front-end development, with a strong emphasis on creating efficient and scalable software solutions. I have a Master's degree in Computer Science from Cleveland State University, where I honed my skills and gained hands-on experience in various technologies. I'm passionate about using my technical skills to contribute to innovative projects and solve real-world problems.
+🚀 Welcome to my GitHub Universe! 🚀 I'm Maitri Patel, a dedicated software developer with over 3 years of experience in J2EE, UI technologies, MVC frameworks, Databases, and Data Structures and Algorithms. My expertise lies in Core Java, Spring Framework, and front-end development, with a strong emphasis on creating efficient and scalable software solutions. I have a Master's degree in Computer Science from Cleveland State University, where I honed my skills and gained hands-on experience in various technologies. I'm passionate about using my technical skills to contribute to innovative projects and solve real-world problems.
 
 ## 🔧 Technical Skills
 - **Programming Languages:** Java 8/11/17, C, C++, JavaScript ES5/ES6
